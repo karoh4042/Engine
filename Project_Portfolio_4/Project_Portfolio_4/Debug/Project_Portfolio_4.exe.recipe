@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\Rohit\Documents\Engine\Kakarala_Rohit_PP4\Project_Portfolio_4\Debug\Project_Portfolio_4.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\Rohit\Documents\Engine\Kakarala_Rohit_PP4\Project_Portfolio_4\Debug\GeometryShader.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Rohit\Documents\Engine\Kakarala_Rohit_PP4\Project_Portfolio_4\Debug\InstancedShader.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Rohit\Documents\Engine\Kakarala_Rohit_PP4\Project_Portfolio_4\Debug\MeshPixelShader.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Rohit\Documents\Engine\Kakarala_Rohit_PP4\Project_Portfolio_4\Debug\MeshVertexShader.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Rohit\Documents\Engine\Kakarala_Rohit_PP4\Project_Portfolio_4\Debug\PixelShader.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Rohit\Documents\Engine\Kakarala_Rohit_PP4\Project_Portfolio_4\Debug\TransparencyShader.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Rohit\Documents\Engine\Kakarala_Rohit_PP4\Project_Portfolio_4\Debug\VertexShader.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

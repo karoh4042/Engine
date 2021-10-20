@@ -1,0 +1,9 @@
+C:\Users\Rohit\Desktop\PP4\Project_Portfolio_4\Debug\PixelShader.cso
+C:\Users\Rohit\Desktop\PP4\Project_Portfolio_4\Debug\VertexShader.cso
+C:\Users\Rohit\Desktop\PP4\Kakarala_Rohit_PP4\Project_Portfolio_4\Debug\GeometryShader.cso
+C:\Users\Rohit\Desktop\PP4\Kakarala_Rohit_PP4\Project_Portfolio_4\Debug\InstancedShader.cso
+C:\Users\Rohit\Desktop\PP4\Kakarala_Rohit_PP4\Project_Portfolio_4\Debug\MeshPixelShader.cso
+C:\Users\Rohit\Desktop\PP4\Kakarala_Rohit_PP4\Project_Portfolio_4\Debug\MeshVertexShader.cso
+C:\Users\Rohit\Desktop\PP4\Kakarala_Rohit_PP4\Project_Portfolio_4\Debug\PixelShader.cso
+C:\Users\Rohit\Desktop\PP4\Kakarala_Rohit_PP4\Project_Portfolio_4\Debug\TransparencyShader.cso
+C:\Users\Rohit\Desktop\PP4\Kakarala_Rohit_PP4\Project_Portfolio_4\Debug\VertexShader.cso
